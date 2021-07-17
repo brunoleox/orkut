@@ -44,11 +44,11 @@ const Box = styled.div`
   }
   .button{
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     color: #FFFFFF;
     font-size: 14px;
-    width: 100%;
+   
     margin: 10px;
     min-height: 35px;
   }
